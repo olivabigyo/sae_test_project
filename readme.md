@@ -8,6 +8,6 @@
 3. third item
 
 ### Another list
-- a
-- b
-- c
+- A
+- B
+- C
