@@ -1,4 +1,4 @@
-** Project Awesomeness **
+** Project With Awesomeness **
 
 *This project uses git for WDD919*
 
